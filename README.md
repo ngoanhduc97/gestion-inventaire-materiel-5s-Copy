@@ -1,4 +1,4 @@
-## Gestion d'inventaire de matériel électronique et organisation d'un espace de stockage – Méthode 5S
+# Gestion d'inventaire de matériel électronique et organisation d'un espace de stockage – Méthode 5S
 
 # Présentation du projet
 
